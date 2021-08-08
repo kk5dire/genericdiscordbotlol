@@ -6,7 +6,7 @@
 
 {
   "global": {
-    "eval": false,
+    "eval": true,
     "pullanddeploy": false,
     "setUsername": false,
     "cmdauth": false
